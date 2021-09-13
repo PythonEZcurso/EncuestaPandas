@@ -8,8 +8,11 @@ Para poder descargar las bases de datos.
   
   2.- Accede al archivo deseado.
   
-  3.- Da click en el botón Download  o descargar.
-  (Al estar en la página en blanco donde se muestran los datos en crudo).
+  3a.- Da click en el botón Download  o descargar.
+  (Al estar en la página con fondo blanco donde se muestran los datos en crudo).
+  
+  3b.- En el caso de que no exista la opción Download  o descargar, dar clic en Raw/crudo esta opción nos permite visualizar 
+  la base de datos en una pagina de fondo blanco.
   
   4.- Guarda este archivo:
       a) clic derecho sobre la base de datos y elige la opción guardar como.
