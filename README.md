@@ -15,6 +15,7 @@ Para poder descargar las bases de datos.
       a) clic derecho sobre la base de datos y elige la opción guardar como.
       b) tecla Ctrl + S ó tecla Ctrl + G.
       
-  Nota: Al guardar el archivo asegurate de que el formato en el cual se guarde sea el indicado ejemplo(.csv, .txt, xlsx).
+  Nota: Al guardar el archivo asegurate de que el formato/tipo de archivo en el cual sea guardo coincida con el necesario
+  ejemplo(.csv, .txt, xlsx), regularmente la opción por defecto es la correcta.
 
     
